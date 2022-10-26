@@ -8,7 +8,7 @@ Text ...
 Kurztext ... [Zur Ausstellung](#ausstellung-tinguely-dä-chnächt).
 
 ### 30 Jahre Zuki Hund
-Kurztext ... [Zur Ausstellung](#30-jahre-zuki-hund)
+Kurztext ... [Zur Ausstellung](#ausstellung-30-jahre-zuki-hund)
 
 ## Ausstellung Tinguely dä Chnächt
 Text ...
