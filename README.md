@@ -1,15 +1,6 @@
 # Museum Langstrasse
 Text ...
 
-## Ausstellungen
-Text ...
-
-### Tinguely dä Chnächt Retrospektive
-Kurztext ... [Zur Ausstellung](#ausstellung-tinguely-dä-chnächt).
-
-### 30 Jahre Zuki Hund
-Kurztext ... [Zur Ausstellung](#ausstellung-30-jahre-zuki-hund)
-
 ## Ausstellung Tinguely dä Chnächt
 Text ...
 
