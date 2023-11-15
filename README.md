@@ -11,7 +11,7 @@ Dieses interaktive Kunstwerk visualisiert die Vielfalt der Emotionen durch eine 
 #### Werk: Emoji-Symphonie
 Ein faszinierendes audiovisuelles Erlebnis, bei dem Emojis in Echtzeit zu einer musikalischen Symphonie verschmelzen. Jedes Emoji repräsentiert einen Klang, und die Besucherinnen und Besucher können durch Bewegungen und Interaktion mit den Emojis eine einzigartige Klanglandschaft schaffen.
 
-### Werk: Emojispiegel
+#### Werk: Emojispiegel
 Ein riesiger Spiegel, der aus Tausenden von kleinen Emojis besteht. Wenn die Besucherinnen und Besucher näher treten, können sie ihre eigenen Emotionen durch die Reflexion der verschiedenen Emojis erkennen und gleichzeitig die Entwicklung der Emoji-Kommunikation nachverfolgen.
 
 #### Werk: Emoji-Garten der Kreativität
