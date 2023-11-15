@@ -38,7 +38,7 @@ Ein interaktives Ausgrabungsfeld, auf dem die Besucherinnen und Besucher verstec
 #### Werk: Digitaler Zeitstrudel
 Ein kunstvoller Wirbel von Pixeln, der die rasante Entwicklung von Pixelgrafiken in Apps darstellt. Die Besucherinnen und Besucher können durch Berühren des Strudels verschiedene Pixelstile erkunden, von 8-Bit-Grafiken bis zu hochauflösenden Illustrationen.
 
-## Ausstellung: Die Magie des Codes - Hinter den Kulissen der App-Programmierun
+## Ausstellung: Die Magie des Codes - Hinter den Kulissen der App-Programmierung
 ### Raum: Halle Nord
 #### Werk: Tanz der Algorithmen
 Eine dynamische Licht- und Soundinstallation, die die Eleganz und Komplexität von Algorithmen durch abstrakte Bewegungen und Klänge darstellt. Die Besucherinnen und Besucher können durch ihre Bewegungen den Tanz der Algorithmen beeinflussen.
