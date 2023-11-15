@@ -21,7 +21,7 @@ Ein interaktiver Garten, in dem die Besucherinnen und Besucher ihre eigenen Pfla
 #### Werk: Emo-Porträt-Galerie
 Eine Sammlung von Porträts berühmter Persönlichkeiten, dargestellt ausschließlich durch Emojis. Diese einzigartige Galerie zeigt, wie Emojis als künstlerisches Medium genutzt werden können, um Persönlichkeiten und ihre charakteristischen Merkmale auszudrücken.
 
-## Ausstellung "Von 0 auf 100: Die Geschichte der App-Entwicklung"
+## Ausstellung: Von 0 auf 100: Die Geschichte der App-Entwicklung
 Diese Ausstellung nimmt die Besucherinnen und Besucher mit auf eine Reise durch die faszinierende Geschichte der App-Entwicklung. Von den ersten einfachen Anwendungen bis hin zu den komplexen und innovativen Apps von heute werden die Teilnehmenden in die Welt der Programmierung, Benutzeroberflächen und App-Revolution eingeführt. Interaktive Displays und Workshops bieten den Teilnehmenden die Möglichkeit, selbst in die Welt der App-Entwicklung einzutauchen und ihre eigenen einfachen Apps zu erstellen.
 
 ### Raum: Halle Ost
