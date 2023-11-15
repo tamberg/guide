@@ -1,5 +1,5 @@
 # Museum: App Museum Zürich
-Fiktives Museum, Inhalte sind generiert mit ChatGPT.
+Fiktives Museum, Inhalte sind generiert mit [ChatGPT](https://chat.openai.com/).
 
 ## Ausstellung: Die Evolution der Emoji-Kunst
 Diese Ausstellung erforscht die faszinierende Welt der Emojis und ihre Entwicklung im Laufe der Zeit. Von den einfachen Smiley-Gesichtern bis hin zu den komplexen Emoticons von heute haben Emojis einen erstaunlichen Einfluss auf unsere digitale Kommunikation. Die Besucherinnen und Besucher können interaktive Displays erkunden, die die Geschichte und Bedeutung verschiedener Emojis präsentieren. Es gibt auch kreative Workshops, in denen die Teilnehmenden ihre eigenen Emoji-Kunstwerke erstellen können.
